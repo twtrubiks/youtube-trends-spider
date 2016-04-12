@@ -38,7 +38,7 @@ trends_selenium.py <br>
 ## 輸出格式
 SQLITE<br>
 ![alt tag](http://i.imgur.com/jMuVSRi.jpg)
-![alt tag](http://i.imgur.com/fz40wPu.jpg)
+![alt tag](http://i.imgur.com/Md9aOaB.jpg)
 內容
 ```
 ID          排名
