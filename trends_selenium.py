@@ -34,7 +34,7 @@ def crawler(browser, table):
           link = "https://www.youtube.com" + info.select('h4 a')[0]["href"]
           # autor_name
           autor_name = info.select('a')[1].text
-          autor_name = remove(title, "\"'") 
+          autor_name = remove(autor_name, "\"'") 
           # autor_link
           autor_link = "https://www.youtube.com" + info.select('a')[1]['href']  
           # watch            
