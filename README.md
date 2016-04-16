@@ -2,7 +2,7 @@
 crawler youtube trends use selenium on python<br>
 抓取 Youtube 近期觀看、分享次數熱門影片<br>
 抓取使用<b> JavaScript </b>或<b> AJAX </b>生成的網頁
-* [Demo Video待新增]() - Windows 
+* [Demo Video](https://youtu.be/y7T3_EHa_JY) - Windows 
 
 ## 特色
 * 抓取 Youtube 近期觀看、分享次數熱門影片([目標頁面](https://www.youtube.com/trendsdashboard#loc0=twn&age0=--))，並輸出SQLITE檔案。
